@@ -1,0 +1,11 @@
+img {
+    height:200px;
+    width:200px;
+}
+
+#headline {
+    font-size:50px;
+    font-weight:bold;
+    text-shadow:2px 2px black;
+    font-family:'Courier New', Courier, monospace;
+}
